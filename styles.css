@@ -6,11 +6,10 @@
 }
 
 /* Estilo general */
-body {
-    font-family: Arial, sans-serif;
-    background-color: #20965b;
-    color: #333;
-}
+body { font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; 
+    background-color: #f7f3ec; 
+    color: #333; 
+    line-height: 1.6; }
 
 /* Navegación */
 nav {
